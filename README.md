@@ -41,7 +41,7 @@ This repository contains the full benchmark archive for **Magnum Opus v10.3**, a
 
 ### 🔍 Proof of Utility
 
-This benchmark satisfies the DARPA criteria for **quantum utility**:
+This benchmark satisfies the INDUSTRY criteria for **quantum utility**:
 - **Value exceeds cost**: Each algorithm completes in seconds vs. classical months
 - **Multi-domain execution**: Cryptography, chemistry, finance, and search
 - **Live hardware**: No simulation, no emulation—pure Hilbert space orchestration
